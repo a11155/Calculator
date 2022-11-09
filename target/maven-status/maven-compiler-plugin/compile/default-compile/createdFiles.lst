@@ -1,0 +1,6 @@
+com\mycompany\calculator\EquationParser.class
+com\mycompany\calculator\DigitPanel.class
+com\mycompany\calculator\ResultPanel.class
+com\mycompany\calculator\Calculator.class
+com\mycompany\calculator\CalculatorBoot.class
+com\mycompany\calculator\PrevResultPanel.class
