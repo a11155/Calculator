@@ -4,13 +4,13 @@
  */
 package com.mycompany.calculator.Panels;
 
-import com.mycompany.calculator.CalcButton;
-import com.mycompany.calculator.Commands.CalcCommand;
-import com.mycompany.calculator.Commands.EvalCommand;
-import com.mycompany.calculator.Commands.ClearCommand;
-import com.mycompany.calculator.Commands.DigitCommand;
-import com.mycompany.calculator.Commands.RemoveCommand;
-import com.mycompany.calculator.Commands.SymbolCommand;
+import com.mycompany.calculator.UI.CalcButton;
+import com.mycompany.calculator.CalcCommands.CalcCommand;
+import com.mycompany.calculator.CalcCommands.EvalCommand;
+import com.mycompany.calculator.CalcCommands.ClearCommand;
+import com.mycompany.calculator.CalcCommands.DigitCommand;
+import com.mycompany.calculator.CalcCommands.RemoveCommand;
+import com.mycompany.calculator.CalcCommands.SymbolCommand;
 import com.mycompany.calculator.Observer;
 import java.awt.FlowLayout;
 import java.awt.GridBagConstraints;

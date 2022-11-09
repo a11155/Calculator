@@ -6,17 +6,17 @@
 
 package com.mycompany.calculator;
 
-import com.mycompany.calculator.Nodes.Node;
-import com.mycompany.calculator.Nodes.Add;
-import com.mycompany.calculator.Nodes.Cos;
-import com.mycompany.calculator.Nodes.Divide;
-import com.mycompany.calculator.Nodes.DoubleNode;
-import com.mycompany.calculator.Nodes.Modulo;
-import com.mycompany.calculator.Nodes.Multiply;
-import com.mycompany.calculator.Nodes.Negative;
-import com.mycompany.calculator.Nodes.Sin;
-import com.mycompany.calculator.Nodes.Sqrt;
-import com.mycompany.calculator.Nodes.Subtract;
+import com.mycompany.calculator.ArithmNodes.Node;
+import com.mycompany.calculator.ArithmNodes.Add;
+import com.mycompany.calculator.ArithmNodes.Cos;
+import com.mycompany.calculator.ArithmNodes.Divide;
+import com.mycompany.calculator.ArithmNodes.DoubleNode;
+import com.mycompany.calculator.ArithmNodes.Modulo;
+import com.mycompany.calculator.ArithmNodes.Multiply;
+import com.mycompany.calculator.ArithmNodes.Negative;
+import com.mycompany.calculator.ArithmNodes.Sin;
+import com.mycompany.calculator.ArithmNodes.Sqrt;
+import com.mycompany.calculator.ArithmNodes.Subtract;
 import java.beans.Expression;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptEngine;

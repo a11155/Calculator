@@ -8,7 +8,7 @@ package com.mycompany.calculator;
 import com.mycompany.calculator.Panels.DigitPanel;
 import com.mycompany.calculator.Panels.ResultPanel;
 import com.mycompany.calculator.Panels.PrevResultPanel;
-import com.mycompany.calculator.Commands.CalcCommand;
+import com.mycompany.calculator.CalcCommands.CalcCommand;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;

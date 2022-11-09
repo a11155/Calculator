@@ -4,8 +4,8 @@
  */
 package com.mycompany.calculator;
 
-import com.mycompany.calculator.Commands.CalcCommand;
-import com.mycompany.calculator.Commands.EvalCommand;
+import com.mycompany.calculator.CalcCommands.CalcCommand;
+import com.mycompany.calculator.CalcCommands.EvalCommand;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.script.ScriptException;
